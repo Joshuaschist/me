@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Undergraduate at Unizik <span> 2017-till date</span> & ZTM Web Development Online(Udemy)<span>2020</span></h2>
                         <p>Studying Psychology, but my major is in Artifical Psychology, which can be liken to as AI</p>
-                        <p>I am pursuing my programming career, with the help of Andrei tutoring in ZeroToMastery I have learnt courses both on Front-end and Backend(Fullstack) web development</p>
+                        <p>I am pursuing my programming career, with the help of Andrei tutoring in ZeroToMastery. I have learnt courses on Front-end and currently learning Backend web development.</p>
                       </div>
                     </div>
                   </article>
